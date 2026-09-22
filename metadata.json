@@ -1,0 +1,6 @@
+{
+  "name": "Dra. Juliene Ribeiro | Harmonização Facial",
+  "description": "Site oficial da Dra. Juliene Ribeiro, Biomédica Esteta (CRBM 10302). Harmonização facial e rejuvenescimento natural com o Método Singullaris® em Betim, MG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
